@@ -8,6 +8,7 @@ public class Main {
         String s = "Hello";
         String s1 = "Hello";
         String s3 = "Hello";
+        String f4 = "Hello";
         //String immutable;
         //String immutable;
 
@@ -23,7 +24,6 @@ public class Main {
 //    git init
 //    git add README.md
 //    git commit -m "first commit"
-//    git branch -M main
 //    git remote add origin https://github.com/Aviory/task4.git
 //    git push -u origin main
 
